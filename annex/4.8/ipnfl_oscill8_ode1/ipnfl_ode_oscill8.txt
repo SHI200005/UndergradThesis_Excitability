@@ -1,0 +1,9 @@
+X'=Vx*(Y1/Ky1x)^n/(1+(Y1/Ky1x)^n+(Y2/Ky2x)^n)-dx*X+bx*S
+Y1'=Vy1*(X/Kxy1)^n/(1+(X/Kxy1)^n)-dy1*Y1+by1
+Y2'=Vy2*(X/Kxy2)^n/(1+(X/Kxy2)^n)-dy2*Y2+by2
+par S=2
+par Vx=1,Vy1=0.6,Vy2=0.01
+par Kxy1=1,Kxy2=1,Ky1x=1,Ky2x=1
+par bx=0.01,by1=0.1,by2=0.1
+par dx=0.2,dy1=0.2,dy2=0.02
+par n=2

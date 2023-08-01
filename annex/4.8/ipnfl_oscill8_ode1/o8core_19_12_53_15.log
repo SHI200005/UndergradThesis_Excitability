@@ -1,0 +1,328 @@
+
+o8core, 2.0.11
+author: Emery Conrad
+build date: Jan 14 2011, 13:23:16
+
+[Wed Jan 19 12:53:15 2022]: creating logfile o8core_19_12_53_15.log
+[Wed Jan 19 12:53:15 2022]: initializing link on port 28472
+[Wed Jan 19 12:53:15 2022]: initializing winsock library
+[Wed Jan 19 12:53:15 2022]: link port is 28472
+[Wed Jan 19 12:53:15 2022]: port 28472 is bound
+[Wed Jan 19 12:53:15 2022]: listening on port 28472
+[Wed Jan 19 12:53:15 2022]: link outfifo: starting thread
+[Wed Jan 19 12:53:15 2022]: link outfifo: thread started
+[Wed Jan 19 12:53:15 2022]: o8core link: starting thread
+[Wed Jan 19 12:53:15 2022]: o8core link: thread started
+[Wed Jan 19 12:53:15 2022]: accepted socket connection on port 20007
+[Wed Jan 19 12:53:15 2022]: link received initialization message, reading in 1878 bytes of model text
+[Wed Jan 19 12:53:15 2022]: ignoring o8mi tag in model init
+[Wed Jan 19 12:55:02 2022]: link received run message, reading in 2125 bytes of o8r text
+[Wed Jan 19 12:55:02 2022]: ignoring notes in o8r
+[Wed Jan 19 12:55:02 2022]: ignoring plots in o8r
+[Wed Jan 19 12:55:02 2022]: running...
+[Wed Jan 19 12:55:02 2022]: running a time series
+[Wed Jan 19 12:55:02 2022]: will run for 250 time units, 500 points
+[Wed Jan 19 12:55:02 2022]: returning 16032 data bytes to client
+[Wed Jan 19 12:55:02 2022]: run complete (0.004 s)
+[Wed Jan 19 12:55:02 2022]: done running
+[Wed Jan 19 12:55:02 2022]: returning (roughly) 1366 log bytes to client
+[Wed Jan 19 12:55:48 2022]: link received run message, reading in 2129 bytes of o8r text
+[Wed Jan 19 12:55:48 2022]: ignoring notes in o8r
+[Wed Jan 19 12:55:48 2022]: ignoring plots in o8r
+[Wed Jan 19 12:55:48 2022]: running...
+[Wed Jan 19 12:55:48 2022]: running a time series
+[Wed Jan 19 12:55:48 2022]: will run for 250 time units, 500 points
+[Wed Jan 19 12:55:48 2022]: returning 16032 data bytes to client
+[Wed Jan 19 12:55:48 2022]: run complete (0.003 s)
+[Wed Jan 19 12:55:48 2022]: done running
+[Wed Jan 19 12:55:48 2022]: returning (roughly) 503 log bytes to client
+[Wed Jan 19 12:56:26 2022]: link received run message, reading in 2126 bytes of o8r text
+[Wed Jan 19 12:56:26 2022]: ignoring notes in o8r
+[Wed Jan 19 12:56:26 2022]: ignoring plots in o8r
+[Wed Jan 19 12:56:26 2022]: running...
+[Wed Jan 19 12:56:26 2022]: running a time series
+[Wed Jan 19 12:56:26 2022]: will run for 250 time units, 500 points
+[Wed Jan 19 12:56:26 2022]: returning 16032 data bytes to client
+[Wed Jan 19 12:56:26 2022]: run complete (0.003 s)
+[Wed Jan 19 12:56:26 2022]: done running
+[Wed Jan 19 12:56:26 2022]: returning (roughly) 503 log bytes to client
+[Wed Jan 19 12:57:04 2022]: link received run message, reading in 2128 bytes of o8r text
+[Wed Jan 19 12:57:04 2022]: ignoring notes in o8r
+[Wed Jan 19 12:57:04 2022]: ignoring plots in o8r
+[Wed Jan 19 12:57:04 2022]: running...
+[Wed Jan 19 12:57:04 2022]: running a time series
+[Wed Jan 19 12:57:04 2022]: will run for 1000 time units, 1000 points
+[Wed Jan 19 12:57:04 2022]: returning 32032 data bytes to client
+[Wed Jan 19 12:57:04 2022]: run complete (0.005 s)
+[Wed Jan 19 12:57:04 2022]: done running
+[Wed Jan 19 12:57:04 2022]: returning (roughly) 505 log bytes to client
+[Wed Jan 19 12:59:19 2022]: link received run message, reading in 2130 bytes of o8r text
+[Wed Jan 19 12:59:19 2022]: ignoring notes in o8r
+[Wed Jan 19 12:59:19 2022]: ignoring plots in o8r
+[Wed Jan 19 12:59:19 2022]: running...
+[Wed Jan 19 12:59:19 2022]: running a time series
+[Wed Jan 19 12:59:19 2022]: will run for 1000 time units, 1000 points
+[Wed Jan 19 12:59:19 2022]: returning 32032 data bytes to client
+[Wed Jan 19 12:59:19 2022]: run complete (0.004 s)
+[Wed Jan 19 12:59:19 2022]: done running
+[Wed Jan 19 12:59:19 2022]: returning (roughly) 505 log bytes to client
+[Wed Jan 19 13:00:36 2022]: link received run message, reading in 2128 bytes of o8r text
+[Wed Jan 19 13:00:36 2022]: ignoring notes in o8r
+[Wed Jan 19 13:00:36 2022]: ignoring plots in o8r
+[Wed Jan 19 13:00:36 2022]: running...
+[Wed Jan 19 13:00:36 2022]: running a time series
+[Wed Jan 19 13:00:36 2022]: will run for 1000 time units, 1000 points
+[Wed Jan 19 13:00:36 2022]: returning 32032 data bytes to client
+[Wed Jan 19 13:00:36 2022]: run complete (0.005 s)
+[Wed Jan 19 13:00:36 2022]: done running
+[Wed Jan 19 13:00:36 2022]: returning (roughly) 505 log bytes to client
+[Wed Jan 19 13:01:20 2022]: link received run message, reading in 2130 bytes of o8r text
+[Wed Jan 19 13:01:20 2022]: ignoring notes in o8r
+[Wed Jan 19 13:01:20 2022]: ignoring plots in o8r
+[Wed Jan 19 13:01:20 2022]: running...
+[Wed Jan 19 13:01:20 2022]: running a time series
+[Wed Jan 19 13:01:20 2022]: will run for 1000 time units, 1000 points
+[Wed Jan 19 13:01:20 2022]: returning 32032 data bytes to client
+[Wed Jan 19 13:01:20 2022]: run complete (0.007 s)
+[Wed Jan 19 13:01:20 2022]: done running
+[Wed Jan 19 13:01:20 2022]: returning (roughly) 505 log bytes to client
+[Wed Jan 19 13:07:13 2022]: link received run message, reading in 2122 bytes of o8r text
+[Wed Jan 19 13:07:13 2022]: ignoring notes in o8r
+[Wed Jan 19 13:07:13 2022]: ignoring plots in o8r
+[Wed Jan 19 13:07:13 2022]: running...
+[Wed Jan 19 13:07:13 2022]: running a time series
+[Wed Jan 19 13:07:13 2022]: will run for 1000 time units, 1000 points
+[Wed Jan 19 13:07:13 2022]: returning 32032 data bytes to client
+[Wed Jan 19 13:07:13 2022]: run complete (0.004 s)
+[Wed Jan 19 13:07:13 2022]: done running
+[Wed Jan 19 13:07:13 2022]: returning (roughly) 505 log bytes to client
+[Wed Jan 19 13:09:46 2022]: link received run message, reading in 2129 bytes of o8r text
+[Wed Jan 19 13:09:46 2022]: ignoring notes in o8r
+[Wed Jan 19 13:09:46 2022]: ignoring plots in o8r
+[Wed Jan 19 13:09:46 2022]: running...
+[Wed Jan 19 13:09:46 2022]: running a time series
+[Wed Jan 19 13:09:46 2022]: will run for 250 time units, 500 points
+[Wed Jan 19 13:09:46 2022]: returning 16032 data bytes to client
+[Wed Jan 19 13:09:46 2022]: run complete (0.002 s)
+[Wed Jan 19 13:09:46 2022]: done running
+[Wed Jan 19 13:09:46 2022]: returning (roughly) 503 log bytes to client
+[Wed Jan 19 13:10:18 2022]: link received run message, reading in 2128 bytes of o8r text
+[Wed Jan 19 13:10:18 2022]: ignoring notes in o8r
+[Wed Jan 19 13:10:18 2022]: ignoring plots in o8r
+[Wed Jan 19 13:10:18 2022]: running...
+[Wed Jan 19 13:10:18 2022]: running a time series
+[Wed Jan 19 13:10:18 2022]: will run for 1000 time units, 1000 points
+[Wed Jan 19 13:10:18 2022]: returning 32032 data bytes to client
+[Wed Jan 19 13:10:18 2022]: run complete (0.008 s)
+[Wed Jan 19 13:10:18 2022]: done running
+[Wed Jan 19 13:10:18 2022]: returning (roughly) 505 log bytes to client
+[Wed Jan 19 13:11:04 2022]: link received run message, reading in 2128 bytes of o8r text
+[Wed Jan 19 13:11:04 2022]: ignoring notes in o8r
+[Wed Jan 19 13:11:04 2022]: ignoring plots in o8r
+[Wed Jan 19 13:11:04 2022]: running...
+[Wed Jan 19 13:11:04 2022]: running a time series
+[Wed Jan 19 13:11:04 2022]: will run for 1000 time units, 1000 points
+[Wed Jan 19 13:11:04 2022]: returning 32032 data bytes to client
+[Wed Jan 19 13:11:04 2022]: run complete (0.003 s)
+[Wed Jan 19 13:11:04 2022]: done running
+[Wed Jan 19 13:11:04 2022]: returning (roughly) 505 log bytes to client
+[Wed Jan 19 13:11:34 2022]: link received run message, reading in 2128 bytes of o8r text
+[Wed Jan 19 13:11:34 2022]: ignoring notes in o8r
+[Wed Jan 19 13:11:34 2022]: ignoring plots in o8r
+[Wed Jan 19 13:11:34 2022]: running...
+[Wed Jan 19 13:11:34 2022]: running a time series
+[Wed Jan 19 13:11:34 2022]: will run for 250 time units, 500 points
+[Wed Jan 19 13:11:34 2022]: returning 16032 data bytes to client
+[Wed Jan 19 13:11:34 2022]: run complete (0.002 s)
+[Wed Jan 19 13:11:34 2022]: done running
+[Wed Jan 19 13:11:34 2022]: returning (roughly) 503 log bytes to client
+[Wed Jan 19 13:12:15 2022]: link received run message, reading in 2128 bytes of o8r text
+[Wed Jan 19 13:12:15 2022]: ignoring notes in o8r
+[Wed Jan 19 13:12:15 2022]: ignoring plots in o8r
+[Wed Jan 19 13:12:15 2022]: running...
+[Wed Jan 19 13:12:15 2022]: running a time series
+[Wed Jan 19 13:12:15 2022]: will run for 1000 time units, 1000 points
+[Wed Jan 19 13:12:15 2022]: returning 32032 data bytes to client
+[Wed Jan 19 13:12:15 2022]: run complete (0.004 s)
+[Wed Jan 19 13:12:15 2022]: done running
+[Wed Jan 19 13:12:15 2022]: returning (roughly) 505 log bytes to client
+[Wed Jan 19 13:21:09 2022]: link received run message, reading in 2201 bytes of o8r text
+[Wed Jan 19 13:21:09 2022]: ignoring notes in o8r
+[Wed Jan 19 13:21:09 2022]: ignoring plots in o8r
+[Wed Jan 19 13:21:09 2022]: running...
+[Wed Jan 19 13:21:09 2022]: running a one parameter bifurcation
+[Wed Jan 19 13:21:09 2022]: ignoring xprops
+[Wed Jan 19 13:21:09 2022]: solving for steady state
+[Wed Jan 19 13:21:09 2022]: trying newton's method
+[Wed Jan 19 13:21:09 2022]: try solving time series
+[Wed Jan 19 13:21:09 2022]: reached stable steady state
+[Wed Jan 19 13:21:09 2022]: continuing Vy1
+[Wed Jan 19 13:21:09 2022]: LibAUTO: starting thread
+[Wed Jan 19 13:21:09 2022]: LibAUTO: thread started
+[Wed Jan 19 13:21:10 2022]: LibAUTO run time: 0.28 s
+[Wed Jan 19 13:21:10 2022]: LibAUTO: starting thread
+[Wed Jan 19 13:21:10 2022]: LibAUTO: thread started
+[Wed Jan 19 13:21:10 2022]: LibAUTO run time: 0.015 s
+[Wed Jan 19 13:21:10 2022]: returning 22748 data bytes to client
+[Wed Jan 19 13:21:10 2022]: Vy1 took 0.445 seconds (0.444 for actual continuation)
+[Wed Jan 19 13:21:10 2022]: run complete (0.447 s)
+[Wed Jan 19 13:21:10 2022]: done running
+[Wed Jan 19 13:21:10 2022]: returning (roughly) 1148 log bytes to client
+[Wed Jan 19 13:22:20 2022]: link received run message, reading in 2200 bytes of o8r text
+[Wed Jan 19 13:22:20 2022]: ignoring notes in o8r
+[Wed Jan 19 13:22:20 2022]: ignoring plots in o8r
+[Wed Jan 19 13:22:20 2022]: running...
+[Wed Jan 19 13:22:20 2022]: running a one parameter bifurcation
+[Wed Jan 19 13:22:20 2022]: ignoring xprops
+[Wed Jan 19 13:22:20 2022]: solving for steady state
+[Wed Jan 19 13:22:20 2022]: trying newton's method
+[Wed Jan 19 13:22:20 2022]: try solving time series
+[Wed Jan 19 13:22:20 2022]: reached stable steady state
+[Wed Jan 19 13:22:20 2022]: continuing Vy1
+[Wed Jan 19 13:22:20 2022]: LibAUTO: starting thread
+[Wed Jan 19 13:22:20 2022]: LibAUTO: thread started
+[Wed Jan 19 13:22:21 2022]: LibAUTO run time: 0.209 s
+[Wed Jan 19 13:22:21 2022]: LibAUTO: starting thread
+[Wed Jan 19 13:22:21 2022]: LibAUTO: thread started
+[Wed Jan 19 13:22:21 2022]: LibAUTO run time: 0.011 s
+[Wed Jan 19 13:22:21 2022]: returning 23760 data bytes to client
+[Wed Jan 19 13:22:21 2022]: Vy1 took 0.342 seconds (0.342 for actual continuation)
+[Wed Jan 19 13:22:21 2022]: run complete (0.344 s)
+[Wed Jan 19 13:22:21 2022]: done running
+[Wed Jan 19 13:22:21 2022]: returning (roughly) 1149 log bytes to client
+[Wed Jan 19 13:23:05 2022]: link received run message, reading in 2118 bytes of o8r text
+[Wed Jan 19 13:23:05 2022]: ignoring notes in o8r
+[Wed Jan 19 13:23:05 2022]: ignoring plots in o8r
+[Wed Jan 19 13:23:05 2022]: running...
+[Wed Jan 19 13:23:05 2022]: running a time series
+[Wed Jan 19 13:23:05 2022]: will run for 1000 time units, 1000 points
+[Wed Jan 19 13:23:05 2022]: returning 32032 data bytes to client
+[Wed Jan 19 13:23:05 2022]: run complete (0.003 s)
+[Wed Jan 19 13:23:05 2022]: done running
+[Wed Jan 19 13:23:05 2022]: returning (roughly) 505 log bytes to client
+[Wed Jan 19 13:24:25 2022]: link received run message, reading in 2125 bytes of o8r text
+[Wed Jan 19 13:24:25 2022]: ignoring notes in o8r
+[Wed Jan 19 13:24:25 2022]: ignoring plots in o8r
+[Wed Jan 19 13:24:25 2022]: running...
+[Wed Jan 19 13:24:25 2022]: running a time series
+[Wed Jan 19 13:24:25 2022]: will run for 250 time units, 500 points
+[Wed Jan 19 13:24:25 2022]: returning 16032 data bytes to client
+[Wed Jan 19 13:24:25 2022]: run complete (0.002 s)
+[Wed Jan 19 13:24:25 2022]: done running
+[Wed Jan 19 13:24:25 2022]: returning (roughly) 503 log bytes to client
+[Wed Jan 19 13:25:36 2022]: link received run message, reading in 2125 bytes of o8r text
+[Wed Jan 19 13:25:36 2022]: ignoring notes in o8r
+[Wed Jan 19 13:25:36 2022]: ignoring plots in o8r
+[Wed Jan 19 13:25:36 2022]: running...
+[Wed Jan 19 13:25:36 2022]: running a time series
+[Wed Jan 19 13:25:36 2022]: will run for 250 time units, 500 points
+[Wed Jan 19 13:25:36 2022]: returning 16032 data bytes to client
+[Wed Jan 19 13:25:36 2022]: run complete (0.003 s)
+[Wed Jan 19 13:25:36 2022]: done running
+[Wed Jan 19 13:25:36 2022]: returning (roughly) 503 log bytes to client
+[Wed Jan 19 13:26:38 2022]: link received run message, reading in 2123 bytes of o8r text
+[Wed Jan 19 13:26:38 2022]: ignoring notes in o8r
+[Wed Jan 19 13:26:38 2022]: ignoring plots in o8r
+[Wed Jan 19 13:26:38 2022]: running...
+[Wed Jan 19 13:26:38 2022]: running a time series
+[Wed Jan 19 13:26:38 2022]: will run for 250 time units, 500 points
+[Wed Jan 19 13:26:38 2022]: returning 16032 data bytes to client
+[Wed Jan 19 13:26:38 2022]: run complete (0.004 s)
+[Wed Jan 19 13:26:38 2022]: done running
+[Wed Jan 19 13:26:38 2022]: returning (roughly) 503 log bytes to client
+[Wed Jan 19 13:36:31 2022]: link received run message, reading in 2129 bytes of o8r text
+[Wed Jan 19 13:36:31 2022]: ignoring notes in o8r
+[Wed Jan 19 13:36:31 2022]: ignoring plots in o8r
+[Wed Jan 19 13:36:31 2022]: running...
+[Wed Jan 19 13:36:31 2022]: running a time series
+[Wed Jan 19 13:36:31 2022]: will run for 250 time units, 500 points
+[Wed Jan 19 13:36:31 2022]: returning 16032 data bytes to client
+[Wed Jan 19 13:36:31 2022]: run complete (0.003 s)
+[Wed Jan 19 13:36:31 2022]: done running
+[Wed Jan 19 13:36:31 2022]: returning (roughly) 503 log bytes to client
+[Wed Jan 19 13:37:40 2022]: link received run message, reading in 2130 bytes of o8r text
+[Wed Jan 19 13:37:40 2022]: ignoring notes in o8r
+[Wed Jan 19 13:37:40 2022]: ignoring plots in o8r
+[Wed Jan 19 13:37:40 2022]: running...
+[Wed Jan 19 13:37:40 2022]: running a time series
+[Wed Jan 19 13:37:40 2022]: will run for 1000 time units, 1000 points
+[Wed Jan 19 13:37:40 2022]: returning 32032 data bytes to client
+[Wed Jan 19 13:37:40 2022]: run complete (0.007 s)
+[Wed Jan 19 13:37:40 2022]: done running
+[Wed Jan 19 13:37:40 2022]: returning (roughly) 505 log bytes to client
+[Wed Jan 19 13:38:08 2022]: link received run message, reading in 2131 bytes of o8r text
+[Wed Jan 19 13:38:08 2022]: ignoring notes in o8r
+[Wed Jan 19 13:38:08 2022]: ignoring plots in o8r
+[Wed Jan 19 13:38:08 2022]: running...
+[Wed Jan 19 13:38:08 2022]: running a time series
+[Wed Jan 19 13:38:08 2022]: will run for 1000 time units, 1000 points
+[Wed Jan 19 13:38:08 2022]: returning 32032 data bytes to client
+[Wed Jan 19 13:38:08 2022]: run complete (0.005 s)
+[Wed Jan 19 13:38:08 2022]: done running
+[Wed Jan 19 13:38:08 2022]: returning (roughly) 505 log bytes to client
+[Wed Jan 19 13:39:17 2022]: link received run message, reading in 2131 bytes of o8r text
+[Wed Jan 19 13:39:17 2022]: ignoring notes in o8r
+[Wed Jan 19 13:39:17 2022]: ignoring plots in o8r
+[Wed Jan 19 13:39:17 2022]: running...
+[Wed Jan 19 13:39:17 2022]: running a time series
+[Wed Jan 19 13:39:17 2022]: will run for 1000 time units, 1000 points
+[Wed Jan 19 13:39:17 2022]: returning 32032 data bytes to client
+[Wed Jan 19 13:39:17 2022]: run complete (0.005 s)
+[Wed Jan 19 13:39:17 2022]: done running
+[Wed Jan 19 13:39:17 2022]: returning (roughly) 505 log bytes to client
+[Wed Jan 19 13:39:53 2022]: link received run message, reading in 2131 bytes of o8r text
+[Wed Jan 19 13:39:53 2022]: ignoring notes in o8r
+[Wed Jan 19 13:39:53 2022]: ignoring plots in o8r
+[Wed Jan 19 13:39:53 2022]: running...
+[Wed Jan 19 13:39:53 2022]: running a time series
+[Wed Jan 19 13:39:53 2022]: will run for 1000 time units, 1000 points
+[Wed Jan 19 13:39:53 2022]: returning 32032 data bytes to client
+[Wed Jan 19 13:39:53 2022]: run complete (0.003 s)
+[Wed Jan 19 13:39:53 2022]: done running
+[Wed Jan 19 13:39:53 2022]: returning (roughly) 505 log bytes to client
+[Wed Jan 19 14:25:25 2022]: link received run message, reading in 2198 bytes of o8r text
+[Wed Jan 19 14:25:25 2022]: ignoring notes in o8r
+[Wed Jan 19 14:25:25 2022]: ignoring plots in o8r
+[Wed Jan 19 14:25:25 2022]: running...
+[Wed Jan 19 14:25:25 2022]: running a one parameter bifurcation
+[Wed Jan 19 14:25:25 2022]: ignoring xprops
+[Wed Jan 19 14:25:25 2022]: solving for steady state
+[Wed Jan 19 14:25:25 2022]: trying newton's method
+[Wed Jan 19 14:25:25 2022]: continuing Vy1
+[Wed Jan 19 14:25:25 2022]: LibAUTO: starting thread
+[Wed Jan 19 14:25:25 2022]: LibAUTO: thread started
+[Wed Jan 19 14:25:25 2022]: LibAUTO run time: 0.027 s
+[Wed Jan 19 14:25:25 2022]: LibAUTO: starting thread
+[Wed Jan 19 14:25:25 2022]: LibAUTO: thread started
+[Wed Jan 19 14:25:25 2022]: LibAUTO run time: 0.027 s
+[Wed Jan 19 14:25:25 2022]: returning 3256 data bytes to client
+[Wed Jan 19 14:25:25 2022]: Vy1 took 0.226 seconds (0.226 for actual continuation)
+[Wed Jan 19 14:25:25 2022]: run complete (0.226 s)
+[Wed Jan 19 14:25:25 2022]: done running
+[Wed Jan 19 14:25:25 2022]: returning (roughly) 1040 log bytes to client
+[Wed Jan 19 14:25:59 2022]: link received run message, reading in 2198 bytes of o8r text
+[Wed Jan 19 14:25:59 2022]: ignoring notes in o8r
+[Wed Jan 19 14:25:59 2022]: ignoring plots in o8r
+[Wed Jan 19 14:25:59 2022]: running...
+[Wed Jan 19 14:25:59 2022]: running a one parameter bifurcation
+[Wed Jan 19 14:25:59 2022]: ignoring xprops
+[Wed Jan 19 14:25:59 2022]: solving for steady state
+[Wed Jan 19 14:25:59 2022]: trying newton's method
+[Wed Jan 19 14:25:59 2022]: continuing Vy1
+[Wed Jan 19 14:25:59 2022]: LibAUTO: starting thread
+[Wed Jan 19 14:25:59 2022]: LibAUTO: thread started
+[Wed Jan 19 14:25:59 2022]: LibAUTO run time: 0.038 s
+[Wed Jan 19 14:25:59 2022]: LibAUTO: starting thread
+[Wed Jan 19 14:25:59 2022]: LibAUTO: thread started
+[Wed Jan 19 14:25:59 2022]: LibAUTO run time: 0.02 s
+[Wed Jan 19 14:25:59 2022]: returning 3256 data bytes to client
+[Wed Jan 19 14:25:59 2022]: Vy1 took 0.227 seconds (0.227 for actual continuation)
+[Wed Jan 19 14:25:59 2022]: run complete (0.228 s)
+[Wed Jan 19 14:25:59 2022]: done running
+[Wed Jan 19 14:25:59 2022]: returning (roughly) 1039 log bytes to client
+[Wed Jan 19 16:10:46 2022]: link received quit message, exiting.
+[Wed Jan 19 16:10:46 2022]: link outfifo: waiting for thread to finish...
+[Wed Jan 19 16:10:46 2022]: o8core link run time: 11851 s
+[Wed Jan 19 16:10:46 2022]: link outfifo run time: 11851 s
+[Wed Jan 19 16:10:46 2022]: link outfifo: 613724 bytes in, 613724 bytes out
+[Wed Jan 19 16:10:46 2022]: all done!

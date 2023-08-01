@@ -1,0 +1,68 @@
+
+o8core, 2.0.11
+author: Emery Conrad
+build date: Jan 14 2011, 13:23:16
+
+[Wed Nov 10 09:45:03 2021]: creating logfile o8core_314_9_45_3.log
+[Wed Nov 10 09:45:03 2021]: initializing link on port 28472
+[Wed Nov 10 09:45:03 2021]: initializing winsock library
+[Wed Nov 10 09:45:03 2021]: link port is 28472
+[Wed Nov 10 09:45:03 2021]: port 28472 is bound
+[Wed Nov 10 09:45:03 2021]: listening on port 28472
+[Wed Nov 10 09:45:03 2021]: link outfifo: starting thread
+[Wed Nov 10 09:45:03 2021]: link outfifo: thread started
+[Wed Nov 10 09:45:03 2021]: o8core link: starting thread
+[Wed Nov 10 09:45:03 2021]: o8core link: thread started
+[Wed Nov 10 09:45:03 2021]: accepted socket connection on port 21032
+[Wed Nov 10 09:45:04 2021]: link received initialization message, reading in 1878 bytes of model text
+[Wed Nov 10 09:45:04 2021]: ignoring o8mi tag in model init
+[Wed Nov 10 09:45:26 2021]: link received run message, reading in 2213 bytes of o8r text
+[Wed Nov 10 09:45:26 2021]: ignoring notes in o8r
+[Wed Nov 10 09:45:26 2021]: ignoring plots in o8r
+[Wed Nov 10 09:45:26 2021]: running...
+[Wed Nov 10 09:45:26 2021]: running a one parameter bifurcation
+[Wed Nov 10 09:45:26 2021]: ignoring xprops
+[Wed Nov 10 09:45:26 2021]: solving for steady state
+[Wed Nov 10 09:45:26 2021]: trying newton's method
+[Wed Nov 10 09:45:26 2021]: try solving time series
+[Wed Nov 10 09:45:26 2021]: reached stable steady state
+[Wed Nov 10 09:45:26 2021]: continuing S
+[Wed Nov 10 09:45:26 2021]: LibAUTO: starting thread
+[Wed Nov 10 09:45:26 2021]: LibAUTO: thread started
+[Wed Nov 10 09:45:26 2021]: LibAUTO run time: 0.059 s
+[Wed Nov 10 09:45:26 2021]: LibAUTO: starting thread
+[Wed Nov 10 09:45:26 2021]: LibAUTO: thread started
+[Wed Nov 10 09:45:26 2021]: LibAUTO run time: 0.037 s
+[Wed Nov 10 09:45:26 2021]: returning 2992 data bytes to client
+[Wed Nov 10 09:45:26 2021]: S took 0.22 seconds (0.22 for actual continuation)
+[Wed Nov 10 09:45:26 2021]: run complete (0.222 s)
+[Wed Nov 10 09:45:26 2021]: done running
+[Wed Nov 10 09:45:26 2021]: returning (roughly) 2004 log bytes to client
+[Wed Nov 10 09:46:54 2021]: link received run message, reading in 2203 bytes of o8r text
+[Wed Nov 10 09:46:54 2021]: ignoring notes in o8r
+[Wed Nov 10 09:46:54 2021]: ignoring plots in o8r
+[Wed Nov 10 09:46:54 2021]: running...
+[Wed Nov 10 09:46:54 2021]: running a one parameter bifurcation
+[Wed Nov 10 09:46:54 2021]: ignoring xprops
+[Wed Nov 10 09:46:54 2021]: solving for steady state
+[Wed Nov 10 09:46:54 2021]: trying newton's method
+[Wed Nov 10 09:46:54 2021]: try solving time series
+[Wed Nov 10 09:46:54 2021]: reached stable steady state
+[Wed Nov 10 09:46:54 2021]: continuing S
+[Wed Nov 10 09:46:54 2021]: LibAUTO: starting thread
+[Wed Nov 10 09:46:54 2021]: LibAUTO: thread started
+[Wed Nov 10 09:46:54 2021]: LibAUTO run time: 0.099 s
+[Wed Nov 10 09:46:54 2021]: LibAUTO: starting thread
+[Wed Nov 10 09:46:54 2021]: LibAUTO: thread started
+[Wed Nov 10 09:46:54 2021]: LibAUTO run time: 0.049 s
+[Wed Nov 10 09:46:54 2021]: returning 9108 data bytes to client
+[Wed Nov 10 09:46:54 2021]: S took 0.214 seconds (0.214 for actual continuation)
+[Wed Nov 10 09:46:54 2021]: run complete (0.215 s)
+[Wed Nov 10 09:46:54 2021]: done running
+[Wed Nov 10 09:46:54 2021]: returning (roughly) 1144 log bytes to client
+[Wed Nov 10 09:47:08 2021]: link received quit message, exiting.
+[Wed Nov 10 09:47:08 2021]: link outfifo: waiting for thread to finish...
+[Wed Nov 10 09:47:08 2021]: o8core link run time: 125.314 s
+[Wed Nov 10 09:47:08 2021]: link outfifo run time: 125.315 s
+[Wed Nov 10 09:47:08 2021]: link outfifo: 12100 bytes in, 12100 bytes out
+[Wed Nov 10 09:47:08 2021]: all done!

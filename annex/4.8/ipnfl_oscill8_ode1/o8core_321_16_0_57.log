@@ -1,0 +1,24 @@
+
+o8core, 2.0.11
+author: Emery Conrad
+build date: Jan 14 2011, 13:23:16
+
+[Wed Nov 17 16:00:57 2021]: creating logfile o8core_321_16_0_57.log
+[Wed Nov 17 16:00:57 2021]: initializing link on port 28472
+[Wed Nov 17 16:00:57 2021]: initializing winsock library
+[Wed Nov 17 16:00:57 2021]: link port is 28472
+[Wed Nov 17 16:00:57 2021]: port 28472 is bound
+[Wed Nov 17 16:00:57 2021]: listening on port 28472
+[Wed Nov 17 16:00:57 2021]: link outfifo: starting thread
+[Wed Nov 17 16:00:57 2021]: link outfifo: thread started
+[Wed Nov 17 16:00:57 2021]: o8core link: starting thread
+[Wed Nov 17 16:00:57 2021]: o8core link: thread started
+[Wed Nov 17 16:00:57 2021]: accepted socket connection on port 17189
+[Wed Nov 17 16:00:58 2021]: link received initialization message, reading in 1878 bytes of model text
+[Wed Nov 17 16:00:58 2021]: ignoring o8mi tag in model init
+[Wed Nov 17 16:33:28 2021]: link received quit message, exiting.
+[Wed Nov 17 16:33:28 2021]: link outfifo: waiting for thread to finish...
+[Wed Nov 17 16:33:28 2021]: o8core link run time: 1950.69 s
+[Wed Nov 17 16:33:28 2021]: link outfifo run time: 1950.69 s
+[Wed Nov 17 16:33:28 2021]: link outfifo: 0 bytes in, 0 bytes out
+[Wed Nov 17 16:33:28 2021]: all done!

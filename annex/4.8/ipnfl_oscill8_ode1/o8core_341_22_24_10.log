@@ -1,0 +1,38 @@
+
+o8core, 2.0.11
+author: Emery Conrad
+build date: Jan 14 2011, 13:23:16
+
+[Tue Dec 07 22:24:11 2021]: creating logfile o8core_341_22_24_10.log
+[Tue Dec 07 22:24:11 2021]: initializing link on port 28472
+[Tue Dec 07 22:24:11 2021]: initializing winsock library
+[Tue Dec 07 22:24:11 2021]: link port is 28472
+[Tue Dec 07 22:24:11 2021]: port 28472 is bound
+[Tue Dec 07 22:24:11 2021]: listening on port 28472
+[Tue Dec 07 22:24:11 2021]: link outfifo: starting thread
+[Tue Dec 07 22:24:11 2021]: link outfifo: thread started
+[Tue Dec 07 22:24:11 2021]: o8core link: starting thread
+[Tue Dec 07 22:24:11 2021]: o8core link: thread started
+[Tue Dec 07 22:24:11 2021]: accepted socket connection on port 29486
+[Tue Dec 07 22:24:11 2021]: link received initialization message, reading in 1878 bytes of model text
+[Tue Dec 07 22:24:11 2021]: ignoring o8mi tag in model init
+[Tue Dec 07 22:24:55 2021]: link received run message, reading in 2167 bytes of o8r text
+[Tue Dec 07 22:24:55 2021]: ignoring notes in o8r
+[Tue Dec 07 22:24:55 2021]: ignoring plots in o8r
+[Tue Dec 07 22:24:55 2021]: running...
+[Tue Dec 07 22:24:55 2021]: running limit cycle continuation
+[Tue Dec 07 22:24:55 2021]: running for par=S, label=5
+[Tue Dec 07 22:24:55 2021]: LibAUTO: starting thread
+[Tue Dec 07 22:24:55 2021]: LibAUTO: thread started
+[Tue Dec 07 22:24:55 2021]: LibAUTO run time: 0.139 s
+[Tue Dec 07 22:24:55 2021]: returning 532 data bytes to client
+(0.24 seconds) 
+[Tue Dec 07 22:24:55 2021]: run complete (0.256 s)
+[Tue Dec 07 22:24:55 2021]: done running
+[Tue Dec 07 22:24:55 2021]: returning (roughly) 1538 log bytes to client
+[Tue Dec 07 22:26:31 2021]: link received quit message, exiting.
+[Tue Dec 07 22:26:31 2021]: link outfifo: waiting for thread to finish...
+[Tue Dec 07 22:26:31 2021]: o8core link run time: 140.814 s
+[Tue Dec 07 22:26:31 2021]: link outfifo run time: 140.814 s
+[Tue Dec 07 22:26:31 2021]: link outfifo: 532 bytes in, 532 bytes out
+[Tue Dec 07 22:26:31 2021]: all done!
