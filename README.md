@@ -1,4 +1,23 @@
 # Excitability in Gene Regulatory Networks
+
+<span style="color: red;">All rights reserved. </span>
+
+```css
+Copyright © [2023] [L Shi @ Nanjing University]. All rights reserved.
+
+The text, images, and their arrangement on this [repository] are all subject to copyright and other intellectual property protection. These materials may not be copied for use without prior written permission from [L Shi @ Nanjing University].
+
+This [repository] may also contain materials that are subject to the copyright rights of [L Shi, the supervisor and the PhD student @ Nanjing University].
+
+For inquiries regarding the use of materials on this [repository], please contact [slnsinlangmc@sina.com].
+
+By accessing or using this [repository], you agree to abide by the terms of this Copyright Notice.
+
+Last updated: [2023/08/07]
+
+[L Shi @ Nanjing University]
+```
+
 ## Information
 
 title = {基因调控网络中的可兴奋性研究}, title* = {Excitability in Gene Regulatory Networks},
