@@ -1,8 +1,5 @@
 # Excitability in Gene Regulatory Networks
 
-<span style="color: red;">All rights reserved. </span>
-
-```css
 Copyright © [2023] [L Shi @ Nanjing University]. All rights reserved.
 
 The text, images, and their arrangement on this [repository] are all subject to copyright and other intellectual property protection. These materials may not be copied for use without prior written permission from [L Shi @ Nanjing University].
@@ -16,7 +13,6 @@ By accessing or using this [repository], you agree to abide by the terms of this
 Last updated: [2023/08/07]
 
 [L Shi @ Nanjing University]
-```
 
 ## Information
 
@@ -45,32 +41,61 @@ Excitability is the ability of systems to enter an excited state quickly in resp
 ## 插图目录
 
 1.1 含有正负反馈耦合回路的基因网络
+
 1.2 可兴奋神经元
+
 1.3 枯草芽孢杆菌感受态
+
 1.4 可兴奋性的单参数分岔图表述
 
+---
+
 2.1 含有正负反馈耦合回路的基因网络
+
 2.2 单参数分岔图与行为分类——非可兴奋
+
 2.3 单参数稳态图与行为分类——可兴奋
 
+---
+
 3.1 Lotka-Volterra 竞争模型
+
 3.2 兴奋与稳定流形
+
 3.3 可兴奋网络与不可兴奋网络
+
 3.4 可兴奋网络参数取值频率
+
 3.5 参数敏感性
 
+---
+
 4.1 B.subtilis 感受态模型
+
 4.2 参数波动的阈值
+
 4.5 图4.2(e) 不应期
 
+---
+
 5.1 Gillespie 方法
+
 5.2 合成生物学手段鉴别内外噪声
+
 5.3 参数与内外噪声下的敏感性的一致性
+
 5.4 转录-翻译速率与内噪声
+
 5.5 转录-翻译相对速率与内噪声(1)
+
 5.6 转录-翻译相对速率与内噪声(2)
+
 5.7 内噪声下的基因计时器
+
 5.8 基因计时器
 
+---
+
 A.1 网络#9
+
 A.2 网络#9 结合反应
